@@ -12,5 +12,20 @@
       "id": "3",
       "username": "worker3"
     }
+  ],
+  "auth" : [],
+  "rooms" : [
+    {
+      "id": "5",
+      "type": "Towel",
+      "orderedFrom": "Room",
+      "time": "2024-03-04T15:10:18.331854",
+      "roomId": 6,
+      "user": {
+        "id": "1",
+        "username": "worker1"
+      },
+      "inUse": false
+    }
   ]
 }

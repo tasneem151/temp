@@ -17,6 +17,7 @@
   "rooms" : [
     {
       "id": "5",
+      "towelId" : "11",
       "type": "Towel",
       "orderedFrom": "Room",
       "time": "2024-03-04T15:10:18.331854",
